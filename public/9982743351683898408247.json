@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "984465317163",
+    "project_id": "godev1-40576",
+    "storage_bucket": "godev1-40576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984465317163:android:e9ddf99dba8fe0db2af96e",
+        "android_client_info": {
+          "package_name": "com.applyforloan.instantpersonalloantips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4snN89Y-xZ5XQeeM0t3TgO7y-_zYG9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984465317163:android:20e9fc6d3c197a5f2af96e",
+        "android_client_info": {
+          "package_name": "com.fastpersonalloan.loansapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4snN89Y-xZ5XQeeM0t3TgO7y-_zYG9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984465317163:android:cbb455772fdff8fd2af96e",
+        "android_client_info": {
+          "package_name": "com.soap2dayguide.streamingmoviestv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4snN89Y-xZ5XQeeM0t3TgO7y-_zYG9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
